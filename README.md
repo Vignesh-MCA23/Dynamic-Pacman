@@ -1,15 +1,16 @@
 # Dynamic-Pacman
- The HTML document creates a basic Pac-Man game with randomly generated Pac-Man characters that 
- bounce off the container's boundaries and change mouth states while moving.
+Description:
 
-# How to run the code:
+The HTML document creates a basic Pac-Man game with randomly generated Pac-Man characters that bounce off the container's boundaries and change mouth states while moving.
 
-  Step1:Save the HTML file with .html extension.
+How to run the code:
 
-  Step2:Click the "Go Live" button.A new browser window will open, displaying pacman-game.
+Step1:Save the HTML file with .html extension.
 
-# Future Enhancements:
+Step2:Click the "Go Live" button.A new browser window will open, displaying pacman-game.
 
-   1)Add scoring and obstacles for increased complexity.
+Future Enhancements:
 
-   2)Incorporate user controls for interactive gameplay.
+1)Add scoring and obstacles for increased complexity.
+
+2)Incorporate user controls for interactive gameplay.
